@@ -1,0 +1,20 @@
+div{
+    background-color: black;
+    color: white;
+}
+
+.SquareBlue{
+    width: 250px; /*Largura*/
+    height: 250px; /*Altura*/
+    background-color: rgb(6, 135, 255);
+    border-radius: 10%;
+    margin: 20px;
+}
+
+.SquareBlack{
+    width: 250px; /*Largura*/
+    height: 250px; /*Altura*/
+    background-color: rgb(0, 0, 0);
+    border-radius: 10%;
+    margin: 20px;
+}
